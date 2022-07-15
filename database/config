@@ -1,0 +1,31 @@
+# Inserisci i dati con PARAMETRO = VALORE se no non saranno compatibili
+
+Nome Primario =  "Il Mattia"
+
+# ---------   Massimo 3 APP -----------
+APPCODE =  "Visual Studio Code"
+
+APPMUSIC="Music"
+
+app ter m ="Terminal"
+
+Cerca =     "ita 2022"
+
+Cognome = Leggieri
+Giorno = 26
+Mese = Giugno
+Anno =       1991
+
+# Inserire un numero e non il testo oppure modifica tell_osascript.sh
+track =      "8"
+
+des 
+mydes =     
+Hobby      =Calcio e     Codifica
+Descrizione="Un bravo ragazzo co usic                  ale preferito Rock N Roll 😎"
+
+#
+
+AZIENDA = PRIVATO
+indirizzo = Via Matteotti 1/1b
+
